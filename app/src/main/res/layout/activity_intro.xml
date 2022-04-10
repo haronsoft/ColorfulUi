@@ -53,7 +53,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Download Free source
-\nfrom uilover channel"
+\nfrom haronsoft github"
         android:textAlignment="center"
         android:textColor="#6D239A"
         android:textSize="24sp"
